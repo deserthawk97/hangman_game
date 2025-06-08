@@ -1,0 +1,1 @@
+word_list = ["pikachu", "raichu", "dragonite", "bulbasaur" , "charmander", "squirtle", "charizard", "clefairy", "jigglypuff", "ninetales", "diglett", "vulpix", "psyduck", "gengar"]
